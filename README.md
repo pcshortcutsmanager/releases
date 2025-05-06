@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <br>
-  <img src="./static/app-icon.png">
+  <img src="./static/app-icon.png" height="125px">
   <br>
   <br>
 </h1>
