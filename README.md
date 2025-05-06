@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-### PC Shortcuts Manager  3.4.6
+### PC Shortcuts Manager  1.1.1
 
 Automate Windows workflows with powerful, multi-action shortcuts! The ultimate productivity tool for Windows power users.
 <br>
